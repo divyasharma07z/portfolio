@@ -1,10 +1,11 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import HomePage from './components/Homepage';
-import About from './components/about';
+
 import Projects from './components/Project';
 import Myservices from './components/Myservices'
-import Contact from './components/contact';
+import About from './components/About';
+import Contact from './components/Contact';
 
 import "./App.css";
 
